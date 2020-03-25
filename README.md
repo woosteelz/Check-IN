@@ -1,5 +1,5 @@
 # Check-IN
-Web browser automatic login service
+Automatic web browser login service
 
 ### Role
 
