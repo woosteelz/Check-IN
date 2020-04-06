@@ -18,7 +18,7 @@ Automatic web browser login service
 
 Back-end: 
 
-Front-end: 
+Front-end: vue.js, vuetify, Electron
 
 Android: 
 
